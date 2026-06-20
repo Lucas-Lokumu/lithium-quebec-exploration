@@ -1,0 +1,10 @@
+﻿FUS_UTM,ESTN,NORD,NOM_MINE,STAT_MINE,FEUILLET,PROMOTEUR,CODE_SUB1,CATG_SUB1,SUB_PRIN1,CODE_SUB2,CATG_SUB2,SUB_PRIN2,CODE_SUB3,CATG_SUB3,SUB_PRIN3,CODE_SUB4,CATG_SUB4,SUB_PRIN4,CODE_SUB5,CATG_SUB5,SUB_PRIN5,CODE_SUB6,CATG_SUB6,SUB_PRIN6,CODE_SUB7,CATG_SUB7,SUB_PRIN7,CODE_SUB8,CATG_SUB8,SUB_PRIN8,CODE_SUB9,CATG_SUB9,SUB_PRIN9,CODE_SUB10,CATG_SUB10,SUB_PRIN10,PLAN_NORD,CODE_SYMBL,TYPE_EXPLO,NOM_MINE_A,Coord_X,Coord_Y
+18,292127,5365828,Complexe Lithium Amérique du Nord,1,32C05,Elevra Lithium ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MALi,CO,,-77.809202,48.411291
+18,358891,5789180,Galaxy,3,33C03,Rio Tinto Lithium Canada inc.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-77.066414,52.234927
+18,419628,5763398,Rose Lithium-Tantale,3,33C01,Corporation Lithium Éléments Critiques,Li2O,ME Minéraux métalliques,O,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-76.171162,52.015395
+18,506825,5620218,Moblan,3,32J10,Elevra Lithium ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-74.903288,50.733714
+18,441000,5725750,Whabouchi,2,32O12,Nemaska Lithium inc.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,DELi,SCO,,-75.853354,51.679617
+17,706725,5361360,Authier,3,32D08,Elevra Lithium ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVLi,CO,,-78.208491,48.371519
+18,466418,5607597,Sirmac-Dike #5,3,32J11,Vision Lithium inc.,Li2O,ME Minéraux métalliques,O,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-75.47471,50.619286
+18,570393,5930685,Shaakichiuwaanaan,3,33H12,Ressources PMET inc.,Li2O,ME Minéraux métalliques,O,Ga2O3,ME Minéraux métalliques,N,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVLi,SCO,,-73.938259,53.520375
+18,669090,5908973,Adina,3,33H08,Li-FT Power Ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-72.462387,53.30293

@@ -1,0 +1,80 @@
+FUS_UTM,ESTN,NORD,NOM_MINE,STAT_MINE,FEUILLET,PROMOTEUR,CODE_SUB1,CATG_SUB1,SUB_PRIN1,CODE_SUB2,CATG_SUB2,SUB_PRIN2,CODE_SUB3,CATG_SUB3,SUB_PRIN3,CODE_SUB4,CATG_SUB4,SUB_PRIN4,CODE_SUB5,CATG_SUB5,SUB_PRIN5,CODE_SUB6,CATG_SUB6,SUB_PRIN6,CODE_SUB7,CATG_SUB7,SUB_PRIN7,CODE_SUB8,CATG_SUB8,SUB_PRIN8,CODE_SUB9,CATG_SUB9,SUB_PRIN9,CODE_SUB10,CATG_SUB10,SUB_PRIN10,PLAN_NORD,CODE_SYMBL,TYPE_EXPLO,NOM_MINE_A,Coord_X,Coord_Y
+18,302397,5377853,Abcourt-Barvue,3,32C12,Mines Abcourt inc.,Zn,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,N,MVZn,SCO,,-77.676254,48.522659
+18,417250,5483250,Lac Bachelor,4,32F08,Ressources Bonterra inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MNAu,S,,-76.14276,49.496237
+17,623490,5492346,Casa Berardi,1,32E11,Orezone Gold Corp.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MAAu,SCO,,-79.292,49.571094
+18,331992,5320038,Chimo,3,32C03,Ressources Cartier inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,S,,-77.252816,48.011536
+18,509705,5515128,Opémiska,3,32G15,XXIX Metal Corp,Cu,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Au,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVCu,CO,,-74.865173,49.788533
+18,554584,5510239,Complexe Corner Bay,3,32G09,Cygnus Metals Limited,Cu,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Au,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVCu,S,,-74.242407,49.742161
+18,661099,5481851,Crevier,3,32H07,Les métaux Niobay inc.,Nb2O5,ME Minéraux métalliques,O,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVNb,CO,,-72.776476,49.467922
+18,349777,5330518,Croinor Gold,3,32C03,Fresnillo plc,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,S,,-77.018181,48.110195
+19,605246,6107054,Goodwood,1,23O03,Tata Steel Minerals Canada Ltd.,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MAFe,CO,,-67.350579,55.09903
+18,426508,5839334,Éléonore,1,33C09,Dhilmar Canada Inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MAAu,S,,-76.087559,52.698924
+17,654411,5494904,Estrades,3,32E10,Galway Metals Inc.,Zn,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Au,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,Pb,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,O,MVZn,S,,-78.863607,49.586987
+19,612596,5800827,Fire Lake,1,23B06,ArcelorMittal Exploitation minière Canada s.e.n.c.,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MAFe,CO,,-67.347029,52.346166
+18,689233,5855457,Renard,4,33A16,Les Diamants Stornoway (Canada) inc.,DD,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MNDD,SCO,,-72.191916,52.815631
+18,283202,5446302,Géant Dormant,2,32F04,Mines Abcourt inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,DEAu,S,,-77.972057,49.131266
+18,286068,5330583,Complexe Goldex,1,32C04,Mines Agnico Eagle ltée,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAAu,SCO,,-77.873166,48.092573
+18,282850,5333852,Kiena,1,32C04,Mines d'Or Wesdome inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAAu,S,,-77.917991,48.120858
+19,617394,5854078,Lac Bloom,1,23B14,Minerai de Fer Québec inc.,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MAFe,CO,,-67.25775,52.823671
+18,459171,5135967,Lac-des-Îles,1,31J05,Northern Graphite Corporation,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAGP,CO,,-75.530895,46.376045
+19,543645,6202429,Lac Otelnuk,3,23N16,MetalQuest Mining,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-68.300821,55.965217
+20,470528,5600515,Lac Tio,1,12L11,Rio Tinto Fer et Titane inc.,TiO2,ME Minéraux métalliques,O,Fe,ME Minéraux métalliques,N,Sc,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MATi,CO,,-63.416052,50.555821
+17,689911,5347340,Complexe LaRonde,1,32D08,Mines Agnico Eagle ltée,Au,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,Zn,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,N,MAAu,S,,-78.441603,48.250795
+20,608575,5274905,Mines Seleine,1,11N12,Sel Windsor ltée,NaCl,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MANaCl,S,,-61.555091,47.618447
+19,611695,5844729,Mont-Wright,1,23B11,ArcelorMittal Exploitation minière Canada s.e.n.c.,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MAFe,CO,,-67.345479,52.740872
+19,340604,5377633,Niobec,1,22D11,Magris Resources inc.,Nb2O5,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MANb,S,,-71.159139,48.531545
+18,582631,6825709,Nunavik Nickel,1,35H11,Canadian Royalties inc.,Ni,ME Minéraux métalliques,O,Au,ME Minéraux métalliques,N,Co,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,Pd,ME Minéraux métalliques,N,Pt,ME Minéraux métalliques,N,,,,,,,,,,,,,O,MANi,SCO,,-73.444865,61.556028
+18,570300,6839436,Raglan,1,35H12,Glencore Canada,Ni,ME Minéraux métalliques,O,Co,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,Pd,ME Minéraux métalliques,N,Pt,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,O,MANi,SCO,,-73.671588,61.681668
+18,537417,5651197,Troilus,3,32O01,Corporation minière Troilus,Au,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVAu,SCO,,-74.466634,51.011121
+17,683596,5347986,Westwood,1,32D07,IAMGOLD Corporation,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAAu,S,,-78.526312,48.258462
+18,452447,5435694,Windfall,3,32G04,Gold Fields Limited,Au,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAu,S,,-75.651086,49.072271
+17,688289,5391825,Dumont Nickel,3,32D09,Dumont Nickel S.E.C.,Ni,ME Minéraux métalliques,O,Co,ME Minéraux métalliques,N,Fe,ME Minéraux métalliques,N,Pd,ME Minéraux métalliques,N,Pt,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,N,MVNi,CO,,-78.443427,48.651092
+18,278366,5335828,Marban,3,32C04,Mines Agnico Eagle ltée,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,SCO,,-77.97919,48.137067
+19,374700,5529585,Lac à Paul,3,22E15,Arianne Phosphate inc.,P2O5,MI Minéraux industriels,O,TiO2,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAP,CO,,-70.74499,49.905512
+18,461809,5064849,Othmer,1,31G11,Dentsply Canada Ltd,FP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAFP,CO,,-75.49089,45.736143
+18,525620,5522778,Lac Scott,3,32G15,Les Ressources Yorbeau inc.,Zn,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Au,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,O,MVZn,S,,-74.64357,49.85687
+17,630379,5374630,Duparquet,3,32D11,Mines d'Or Duparquet inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,CO,,-79.234641,48.511242
+18,292127,5365828,Complexe Lithium Amérique du Nord,1,32C05,Elevra Lithium ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MALi,CO,,-77.809202,48.411291
+18,444200,5785400,Eau Claire,3,33B04,Fury Gold Mines Ltd.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAu,SCO,,-75.81676,52.216206
+19,536264,6312161,Ashram,3,24C16,Mont Royal Resources Ltd.,TREO,ME Minéraux métalliques,O,FL,ME Minéraux métalliques,N,HREO,ME Minéraux métalliques,N,LREO,ME Minéraux métalliques,N,Y2O3,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,O,MVETR,CO,,-68.40381,56.951641
+18,358891,5789180,Galaxy,3,33C03,Rio Tinto Lithium Canada inc.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-77.066414,52.234927
+20,343092,5659351,Kwyjibo,3,22P03,Consolidated Lithium Metals,TREO,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVETR,S,,-65.239336,51.06421
+18,571950,5520300,Lac Doré Vanadium,3,32H13,VanadiumCorp Resource Inc.,Fe,ME Minéraux métalliques,O,TiO2,MI Minéraux industriels,N,V2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-73.99955,49.830813
+18,419628,5763398,Rose Lithium-Tantale,3,33C01,Corporation Lithium Éléments Critiques,Li2O,ME Minéraux métalliques,O,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-76.171162,52.015395
+18,314000,5336000,Novador,3,32C04,Probe Gold inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,SCO,,-77.500793,48.150028
+20,428000,6243000,Strange Lake / B-Zone,3,24A08,Métaux Torngat ltée,TREO,ME Minéraux métalliques,O,HREO,ME Minéraux métalliques,N,LREO,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVETR,CO,,-64.164299,56.326249
+18,506825,5620218,Moblan,3,32J10,Elevra Lithium ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-74.903288,50.733714
+18,441000,5725750,Whabouchi,2,32O12,Nemaska Lithium inc.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,DELi,SCO,,-75.853354,51.679617
+19,451646,5543400,La Blache,3,22K04,Temas Resources Corporation,TiO2,ME Minéraux métalliques,O,Fe,ME Minéraux métalliques,N,V2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVTi,CO,,-69.675279,50.040931
+18,569105,5517969,BlackRock,3,32G16,Strategic Resources Inc.,Fe,ME Minéraux métalliques,O,TiO2,ME Minéraux métalliques,N,V2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-74.039518,49.810185
+19,677435,5570060,Arnaud,3,22J07,Mine Arnaud inc.,P2O5,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAP,CO,,-66.510792,50.256008
+17,646791,5337980,Granada,3,32D03,Granada Gold Mine Inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,CO,,-79.025325,48.178091
+17,630649,5340263,Wasamac,3,32D03,Mines Agnico Eagle ltée,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,S,,-79.241657,48.202145
+17,706725,5361360,Authier,3,32D08,Elevra Lithium ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVLi,CO,,-78.208491,48.371519
+19,437796,6569632,Hopes Advance,3,24M08,Oceanic Iron Ore Corporation,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-70.091008,59.26107
+18,466418,5607597,Sirmac-Dike #5,3,32J11,Vision Lithium inc.,Li2O,ME Minéraux métalliques,O,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-75.47471,50.619286
+17,670512,5507979,Collines de fer,3,32E10,Barlow Métal inc.,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-78.63534,49.700167
+19,622865,5824082,Lac Knife,3,23B11,Focus Graphite inc.,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVGP,CO,,-67.187794,52.552926
+19,495800,5663800,Uatnan,3,22N03,Nouveau Monde Graphite inc.,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVGP,CO,,-69.060017,51.125654
+18,549413,5311330,Lac Letondal,1,31O16,Imerys Canada Inc.,MI,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAMI,CO,,-74.338182,47.953375
+17,713451,5334779,Complexe Canadian Malartic,1,32D01,Mines Agnico Eagle ltée,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAAu,CO,,-78.131186,48.130439
+18,296445,5328501,Lamaque,1,32C04,Eldorado Gold Québec,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MAAu,S,,-77.732977,48.077261
+19,587602,6141109,Full Moon,3,23O05,Century Global Commodities Corporation,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-67.61641,55.40839
+17,647759,5346155,Horne 5,3,32D06,Ressources Falco ltée,Au,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Cu,ME Minéraux métalliques,N,Zn,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,N,MVAu,S,,-79.009463,48.251371
+18,500300,5095000,La Loutre,3,31J02,Métaux Lomiko,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVGP,CO,,-74.996125,46.008573
+17,614267,5431273,Perron,3,32E03,Amex Exploration,Au,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAu,SCO,,-79.436978,49.023752
+17,670140,5543175,Fenelon,3,32L02,Wallbridge,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAu,SCO,,-78.625033,50.016564
+18,579000,5165000,Matawinie,2,31I12,Nouveau Monde Graphite inc.,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,DEGP,CO,,-73.967901,46.633906
+18,530385,5056900,Miller,3,31G10,Canada Carbon Inc.,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVGP,CO,,-74.60994,45.664984
+18,563085,5529301,Mont Sorcier,3,32G16,Métaux Voyager,Fe,ME Minéraux métalliques,O,TiO2,ME Minéraux métalliques,N,V2O5,MC Matériaux de construction,N,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-74.121332,49.912759
+20,441583,6134253,Crater Lake,3,13M05,Scandium Canada Ltée.,Sc2O3,ME Minéraux métalliques,O,Dy2O3,ME Minéraux métalliques,N,La2O3,ME Minéraux métalliques,N,Nd2O3,ME Minéraux métalliques,N,Pr2O3,ME Minéraux métalliques,N,Tb2O3,ME Minéraux métalliques,N,,,,,,,,,,,,,O,MVSc,CO,,-63.921292,55.351136
+19,630597,5830191,Lac Carheil Graphite,3,23B11,Metals Australia Ltd,GP,MI Minéraux industriels,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVGP,CO,,-67.07141,52.606016
+19,647380,6069160,Houston / fosse Malcolm,3,23J10,Labrador Iron Mines Holdings Limited,Fe,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVFe,CO,,-66.710177,54.748043
+19,384731,5436912,Lac à l'Orignal,3,22E02,First Phosphate Corp.,P2O5,MI Minéraux industriels,O,Fe,ME Minéraux métalliques,N,TiO2,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVAP,CO,,-70.578327,49.074272
+18,288810,5515200,Complexe Caber,3,32F13,Nuvau Minerals Inc.,Cu,ME Minéraux métalliques,O,Ag,ME Minéraux métalliques,N,Au,ME Minéraux métalliques,N,Zn,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,O,MVCu,S,,-77.931986,49.752148
+19,326032,5402188,Bégin-Lamarche,3,22D11,First Phosphate Corp.,P2O5,MI Minéraux industriels,O,Fe,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAP,CO,,-71.366669,48.748389
+18,570393,5930685,Shaakichiuwaanaan,3,33H12,Ressources PMET inc.,Li2O,ME Minéraux métalliques,O,Ga2O3,ME Minéraux métalliques,N,Ta2O5,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,O,MVLi,SCO,,-73.938259,53.520375
+18,669090,5908973,Adina,3,33H08,Li-FT Power Ltd.,Li2O,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,O,MVLi,CO,,-72.462387,53.30293
+19,559000,5500000,Nathalie,3,22F09,Baie Comeau minéral,P2O5,MI Minéraux industriels,O,TiO2,ME Minéraux métalliques,N,,,,,,,,,,,,,,,,,,,,,,,,,O,MVAP,CO,,-68.182668,49.649658
+18,310632,5381128,Swanson,3,32C12,LaFleur Minerals Inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,CO,,-77.56633,48.55463
+17,692801,5345579,O'Brien,3,32D01,Ressources minières Radisson inc.,Au,ME Minéraux métalliques,O,,,,,,,,,,,,,,,,,,,,,,,,,,,,N,MVAu,S,,-78.403513,48.234096
