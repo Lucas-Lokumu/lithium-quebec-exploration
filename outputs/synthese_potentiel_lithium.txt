@@ -1,0 +1,30 @@
+﻿SYNTHÈSE — SCORE EXPLORATOIRE DU POTENTIEL LITHIUM
+
+Nombre total d'occurrences GMLI analysées : 159
+
+Répartition par classe de potentiel :
+- Potentiel fort : 102
+- Potentiel moyen : 55
+- Potentiel faible : 2
+
+Répartition par état du corps :
+- Indice, aucun travail : 85
+- Indice travaillé : 61
+- Gîte : 12
+- Mine active : 1
+
+Principales typologies :
+- Minéralisation associée aux pegmatites granitiques : 148
+-  : 11
+
+Top 10 des occurrences au score le plus élevé :
+- Cyr-Lithium (James Bay Lithium) | Score : 14 | Classe : Potentiel fort | Projet proche : Galaxy | Distance : 0.62 km
+- Lac Moblan Ouest | Score : 14 | Classe : Potentiel fort | Projet proche : Moblan | Distance : 0.32 km
+- Rose | Score : 14 | Classe : Potentiel fort | Projet proche : Rose Lithium-Tantale | Distance : 0.0 km
+- Authier | Score : 14 | Classe : Potentiel fort | Projet proche : Authier | Distance : 1.39 km
+- Sirmac | Score : 14 | Classe : Potentiel fort | Projet proche : Sirmac-Dike #5 | Distance : 0.32 km
+- Whabouchi | Score : 14 | Classe : Potentiel fort | Projet proche : Whabouchi | Distance : 0.05 km
+- CV5 | Score : 14 | Classe : Potentiel fort | Projet proche : Shaakichiuwaanaan | Distance : 0.0 km
+- CV5 | Score : 14 | Classe : Potentiel fort | Projet proche : Shaakichiuwaanaan | Distance : 0.6 km
+- Adina Main (Jamar) | Score : 14 | Classe : Potentiel fort | Projet proche : Adina | Distance : 0.55 km
+- CV13 | Score : 14 | Classe : Potentiel fort | Projet proche : Shaakichiuwaanaan | Distance : 6.11 km

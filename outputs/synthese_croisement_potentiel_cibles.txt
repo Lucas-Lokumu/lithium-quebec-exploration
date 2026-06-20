@@ -1,0 +1,27 @@
+﻿SYNTHÈSE — CROISEMENT OCCURRENCES GMLI ET CIBLES D'EXPLORATION
+
+Nombre d'occurrences GMLI analysées : 159
+Nombre de cibles lithium/pegmatites utilisées : 44
+
+Répartition par classe de potentiel :
+- Potentiel fort : 102
+- Potentiel moyen : 55
+- Potentiel faible : 2
+
+Répartition par proximité avec une cible d'exploration :
+- Très proche d'une cible : 41
+- Proche d'une cible : 12
+- Dans un rayon de 100 km : 38
+- Éloigné des cibles : 68
+
+Top 10 des occurrences les plus intéressantes après croisement :
+- Adina Main (Jamar) | Score : 14 | Potentiel : Potentiel fort | Cible proche : (6) Adina (14-AB-6048A) | Distance cible : 1.01 km | Classe distance : Très proche d'une cible
+- CV13 | Score : 14 | Potentiel : Potentiel fort | Cible proche : 10-SB-6326 | Distance cible : 11.85 km | Classe distance : Très proche d'une cible
+- CV5 | Score : 14 | Potentiel : Potentiel fort | Cible proche : 10-SB-6326 | Distance cible : 15.09 km | Classe distance : Très proche d'une cible
+- CV5 | Score : 14 | Potentiel : Potentiel fort | Cible proche : 10-SB-6326 | Distance cible : 15.6 km | Classe distance : Très proche d'une cible
+- CV5 | Score : 14 | Potentiel : Potentiel fort | Cible proche : 10-SB-6326 | Distance cible : 16.55 km | Classe distance : Très proche d'une cible
+- Cyr-Lithium (James Bay Lithium) | Score : 14 | Potentiel : Potentiel fort | Cible proche : Béryl | Distance cible : 38.11 km | Classe distance : Proche d'une cible
+- Rose | Score : 14 | Potentiel : Potentiel fort | Cible proche : FS-3292 | Distance cible : 68.27 km | Classe distance : Dans un rayon de 100 km
+- Whabouchi | Score : 14 | Potentiel : Potentiel fort | Cible proche : FS-3292 | Distance cible : 103.33 km | Classe distance : Éloigné des cibles
+- Authier | Score : 14 | Potentiel : Potentiel fort | Cible proche : Indice Kekek (15-AM-200B) | Distance cible : 170.54 km | Classe distance : Éloigné des cibles
+- Lac Moblan Ouest | Score : 14 | Potentiel : Potentiel fort | Cible proche : PR-6073 | Distance cible : 219.24 km | Classe distance : Éloigné des cibles
